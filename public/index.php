@@ -1,2 +1,2 @@
 execute: npm run dev <br>
-url: http://vuejs:8080
+open: <a href="http://vuejs.loc:8080">http://vuejs.loc:8080</a>
